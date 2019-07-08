@@ -1,0 +1,10 @@
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\bin\Release\netcoreapp2.1\AgressionAnalysisML.deps.json
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\bin\Release\netcoreapp2.1\AgressionAnalysisML.runtimeconfig.json
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\bin\Release\netcoreapp2.1\AgressionAnalysisML.runtimeconfig.dev.json
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\bin\Release\netcoreapp2.1\AgressionAnalysisML.dll
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\bin\Release\netcoreapp2.1\AgressionAnalysisML.pdb
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\obj\Release\netcoreapp2.1\AgressionAnalysisML.csproj.CoreCompileInputs.cache
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\obj\Release\netcoreapp2.1\AgressionAnalysisML.AssemblyInfoInputs.cache
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\obj\Release\netcoreapp2.1\AgressionAnalysisML.AssemblyInfo.cs
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\obj\Release\netcoreapp2.1\AgressionAnalysisML.dll
+C:\Users\ashvin.bhuttoo\source\repos\AgressionAnalysisML\AgressionAnalysisML\obj\Release\netcoreapp2.1\AgressionAnalysisML.pdb

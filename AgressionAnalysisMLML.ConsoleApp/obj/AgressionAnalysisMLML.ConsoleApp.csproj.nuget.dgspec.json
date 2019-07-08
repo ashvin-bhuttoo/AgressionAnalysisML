@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.ConsoleApp\\AgressionAnalysisMLML.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.ConsoleApp\\AgressionAnalysisMLML.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.ConsoleApp\\AgressionAnalysisMLML.ConsoleApp.csproj",
+        "projectName": "AgressionAnalysisMLML.ConsoleApp",
+        "projectPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.ConsoleApp\\AgressionAnalysisMLML.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\DJ_AA\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJ_AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj": {
+                "projectPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj",
+        "projectName": "AgressionAnalysisMLML.Model",
+        "projectPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj",
+        "packagesPath": "C:\\Users\\DJ_AA\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJ_AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

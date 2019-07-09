@@ -54,11 +54,11 @@
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.ML/1.0.0": {
+      "Microsoft.ML/1.2.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ML.CpuMath": "1.0.0",
-          "Microsoft.ML.DataView": "1.0.0",
+          "Microsoft.ML.CpuMath": "1.2.0",
+          "Microsoft.ML.DataView": "1.2.0",
           "Newtonsoft.Json": "10.0.3",
           "System.CodeDom": "4.4.0",
           "System.Collections.Immutable": "1.5.0",
@@ -121,7 +121,7 @@
           }
         }
       },
-      "Microsoft.ML.CpuMath/1.0.0": {
+      "Microsoft.ML.CpuMath/1.2.0": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.1"
@@ -154,7 +154,7 @@
           }
         }
       },
-      "Microsoft.ML.DataView/1.0.0": {
+      "Microsoft.ML.DataView/1.2.0": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.1"
@@ -166,10 +166,10 @@
           "lib/netstandard2.0/Microsoft.ML.DataView.dll": {}
         }
       },
-      "Microsoft.ML.FastTree/1.0.0": {
+      "Microsoft.ML.FastTree/1.2.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ML": "1.0.0"
+          "Microsoft.ML": "1.2.0"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ML.FastTree.dll": {}
@@ -199,12 +199,12 @@
           }
         }
       },
-      "Microsoft.ML.LightGbm/1.0.0": {
+      "Microsoft.ML.LightGbm/1.2.0": {
         "type": "package",
         "dependencies": {
           "LightGBM": "2.2.3",
-          "Microsoft.ML": "1.0.0",
-          "Microsoft.ML.FastTree": "1.0.0"
+          "Microsoft.ML": "1.2.0",
+          "Microsoft.ML.FastTree": "1.2.0"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ML.LightGbm.dll": {}
@@ -1122,10 +1122,10 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "Microsoft.ML/1.0.0": {
-      "sha512": "1Wq/LN3M6jn16sJhpXsDA6NMY5ZTqOeKFer8RenW+5nmOlEfyoqYVhk0CBN37+vX1j3ZQNAqof8Ev2sTKvbb2w==",
+    "Microsoft.ML/1.2.0": {
+      "sha512": "4A4C3FphkZ1Aq0fc196CG/HobtO2JRbk6yy0DcPuAoI7/Gxog3tRh5QHM3QZ/NwzeN54QnlHlrtaYHwvoOoi+g==",
       "type": "package",
-      "path": "microsoft.ml/1.0.0",
+      "path": "microsoft.ml/1.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1146,7 +1146,7 @@
         "lib/netstandard2.0/Microsoft.ML.StandardTrainers.xml",
         "lib/netstandard2.0/Microsoft.ML.Transforms.dll",
         "lib/netstandard2.0/Microsoft.ML.Transforms.xml",
-        "microsoft.ml.1.0.0.nupkg.sha512",
+        "microsoft.ml.1.2.0.nupkg.sha512",
         "microsoft.ml.nuspec",
         "runtimes/linux-x64/native/libFactorizationMachineNative.so",
         "runtimes/linux-x64/native/libLdaNative.so",
@@ -1158,10 +1158,10 @@
         "runtimes/win-x86/native/LdaNative.dll"
       ]
     },
-    "Microsoft.ML.CpuMath/1.0.0": {
-      "sha512": "zH1DVSXcqO9lnp96dSxWo17765FuHiN49Sqk13DGr+2B0Etceg6qOPftjeydDO6m2J72RxpX/rTFKriqJLOUOg==",
+    "Microsoft.ML.CpuMath/1.2.0": {
+      "sha512": "77pBXNnOqiEVk+XaArP9Wm4cv8ZIUojrCcJ/dWpcZwcSFT6EkR00abyf0w+mMXa3MwO0D9X+JB+TIn4IAET28A==",
       "type": "package",
-      "path": "microsoft.ml.cpumath/1.0.0",
+      "path": "microsoft.ml.cpumath/1.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1170,7 +1170,7 @@
         "build/netstandard2.0/Microsoft.ML.CpuMath.props",
         "lib/netstandard2.0/Microsoft.ML.CpuMath.dll",
         "lib/netstandard2.0/Microsoft.ML.CpuMath.xml",
-        "microsoft.ml.cpumath.1.0.0.nupkg.sha512",
+        "microsoft.ml.cpumath.1.2.0.nupkg.sha512",
         "microsoft.ml.cpumath.nuspec",
         "runtimes/linux-x64/native/libCpuMathNative.so",
         "runtimes/osx-x64/native/libCpuMathNative.dylib",
@@ -1178,10 +1178,10 @@
         "runtimes/win-x86/native/CpuMathNative.dll"
       ]
     },
-    "Microsoft.ML.DataView/1.0.0": {
-      "sha512": "yJ7L0DVZPTTS7CyqYICXJ1QrOYHxeayqG1oJK8lg4TYu0I+lKWQgJiPzxhcJaAluuF9CobpSoZlgox0B5alqng==",
+    "Microsoft.ML.DataView/1.2.0": {
+      "sha512": "gCw9vRhFNt3Ow8TfnsIW4RKVTFxI7OtPGiDAr62swY7xexVjICIIvxrytMMDbVOXPxxH2uxfOlw3n2l9mZaz5g==",
       "type": "package",
-      "path": "microsoft.ml.dataview/1.0.0",
+      "path": "microsoft.ml.dataview/1.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1189,14 +1189,14 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard2.0/Microsoft.ML.DataView.dll",
         "lib/netstandard2.0/Microsoft.ML.DataView.xml",
-        "microsoft.ml.dataview.1.0.0.nupkg.sha512",
+        "microsoft.ml.dataview.1.2.0.nupkg.sha512",
         "microsoft.ml.dataview.nuspec"
       ]
     },
-    "Microsoft.ML.FastTree/1.0.0": {
-      "sha512": "WsKlw00JIBkXrY0Q8WlUD7P79smhsnvGfRYqYSMUSx3AokINaXGhfmJkzdf1TrRrWHL4j6t5O4vO+AU7xrJnww==",
+    "Microsoft.ML.FastTree/1.2.0": {
+      "sha512": "mpq06WlBDie5RUtNUSPstSiur/Nd/iWWYvfA9sgE1zix5D2bP4hbYPhOLW2BENXw2F1CitsW96HpiYkzbhLu0w==",
       "type": "package",
-      "path": "microsoft.ml.fasttree/1.0.0",
+      "path": "microsoft.ml.fasttree/1.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1205,7 +1205,7 @@
         "build/netstandard2.0/Microsoft.ML.FastTree.props",
         "lib/netstandard2.0/Microsoft.ML.FastTree.dll",
         "lib/netstandard2.0/Microsoft.ML.FastTree.xml",
-        "microsoft.ml.fasttree.1.0.0.nupkg.sha512",
+        "microsoft.ml.fasttree.1.2.0.nupkg.sha512",
         "microsoft.ml.fasttree.nuspec",
         "runtimes/linux-x64/native/libFastTreeNative.so",
         "runtimes/osx-x64/native/libFastTreeNative.dylib",
@@ -1213,10 +1213,10 @@
         "runtimes/win-x86/native/FastTreeNative.dll"
       ]
     },
-    "Microsoft.ML.LightGbm/1.0.0": {
-      "sha512": "BySohCMh5oNlKYvnM9hMJ7j+4h5PJi8+QeoIXyieGBR/1rY8RlqlWPqwBDScPlSwXuf7TDOyN9NOOFNVNB2zJQ==",
+    "Microsoft.ML.LightGbm/1.2.0": {
+      "sha512": "JbbLxtvlLZaHWhVoNxD7y2242T7sRQMY/RzTZYjSwOa/i2jtcp70zjAw8Fkrv5RL4/vROq46Ap866wuMDTFL+A==",
       "type": "package",
-      "path": "microsoft.ml.lightgbm/1.0.0",
+      "path": "microsoft.ml.lightgbm/1.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1224,7 +1224,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard2.0/Microsoft.ML.LightGbm.dll",
         "lib/netstandard2.0/Microsoft.ML.LightGbm.xml",
-        "microsoft.ml.lightgbm.1.0.0.nupkg.sha512",
+        "microsoft.ml.lightgbm.1.2.0.nupkg.sha512",
         "microsoft.ml.lightgbm.nuspec"
       ]
     },
@@ -4042,8 +4042,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.ML >= 1.0.0",
-      "Microsoft.ML.LightGBM >= 1.0.0",
+      "Microsoft.ML >= 1.2.0",
+      "Microsoft.ML.LightGBM >= 1.2.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -4093,11 +4093,11 @@
         "dependencies": {
           "Microsoft.ML": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.2.0, )"
           },
           "Microsoft.ML.LightGBM": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.2.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

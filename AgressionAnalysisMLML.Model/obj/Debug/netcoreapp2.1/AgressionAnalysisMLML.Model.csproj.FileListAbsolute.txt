@@ -1,0 +1,9 @@
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\bin\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.deps.json
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\bin\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.dll
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\bin\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.pdb
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\obj\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.csproj.CoreCompileInputs.cache
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\obj\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.AssemblyInfoInputs.cache
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\obj\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.AssemblyInfo.cs
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\obj\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.dll
+D:\dev\AgressionAnalysisML\AgressionAnalysisMLML.Model\obj\Debug\netcoreapp2.1\AgressionAnalysisMLML.Model.pdb

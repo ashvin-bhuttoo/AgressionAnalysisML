@@ -10,15 +10,15 @@
         "projectUniqueName": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj",
         "projectName": "AgressionAnalysisMLML.Model",
         "projectPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\AgressionAnalysisMLML.Model.csproj",
-        "packagesPath": "C:\\Users\\DJ_AA\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ashvin.bhuttoo\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisMLML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DJ_AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ashvin.bhuttoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

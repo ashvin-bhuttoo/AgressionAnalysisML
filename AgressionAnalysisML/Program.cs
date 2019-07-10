@@ -40,6 +40,8 @@ namespace AgressionAnalysisML
                 "This is very good stuff, i love it!",
                 "from what i can see, the job was completed and everything is fine",
                 "there is no way you will be able to complete the job on time",
+                "fuck you",
+                "i love you",
             };
             
             //Step3. Evaluate model with test data

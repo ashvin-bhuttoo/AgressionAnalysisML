@@ -4,10 +4,9 @@
 
 *.cache
 .vs/
-AgressionAnalysisMLML/obj/*
-AgressionAnalysisMLML/obj/Debug/*
-AgressionAnalysisMLML/bin/*
-AgressionAnalysisMLML.Model/obj/*
-AgressionAnalysisMLML.Model/bin/*
-AgressionAnalysisMLML.ConsoleApp/obj/*
-AgressionAnalysisMLML.ConsoleApp/bin/*
+*/obj/*
+*/obj/Debug/*
+*/obj/Release/netcoreapp2.1/*
+*/bin/*
+*/bin/Debug/*
+*/bin/Release/netcoreapp2.1/*

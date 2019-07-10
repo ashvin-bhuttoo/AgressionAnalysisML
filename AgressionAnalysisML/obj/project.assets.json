@@ -4064,8 +4064,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashvin.bhuttoo\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\DJ_AA\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -4074,15 +4074,15 @@
       "projectUniqueName": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisML\\AgressionAnalysisML.csproj",
       "projectName": "AgressionAnalysisML",
       "projectPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisML\\AgressionAnalysisML.csproj",
-      "packagesPath": "C:\\Users\\ashvin.bhuttoo\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\DJ_AA\\.nuget\\packages\\",
       "outputPath": "D:\\dev\\AgressionAnalysisML\\AgressionAnalysisML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ashvin.bhuttoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DJ_AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

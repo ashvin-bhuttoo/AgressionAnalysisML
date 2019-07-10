@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+AgressionAnalysisMLML/obj/*
+AgressionAnalysisMLML/bin/*
+AgressionAnalysisMLML.Model/obj/*
+AgressionAnalysisMLML.Model/bin/*
+AgressionAnalysisMLML.ConsoleApp/obj/*
+AgressionAnalysisMLML.ConsoleApp/bin/*

@@ -4,6 +4,7 @@
 
 .vs/
 AgressionAnalysisMLML/obj/*
+AgressionAnalysisMLML/obj/Debug/*
 AgressionAnalysisMLML/bin/*
 AgressionAnalysisMLML.Model/obj/*
 AgressionAnalysisMLML.Model/bin/*
